@@ -12,7 +12,7 @@ My ultimate goal? Becoming a **Research Software Engineer (RSE)** by 2028 and cr
 
 I have structured this notebook into four distinct parts, mapping my journey from zero to building my own interactive systems:
 
-* **🔬 [01. Components Dictionary](./01-components-dictionary)**
+* **🔬 [01. Components](./01-components)**
   * *What is it?* My personal encyclopedia of hardware components. 
   * *The Twist:* It includes standard definitions, technical schematics, and my raw, curiosity-driven questions (like *"What exactly is cold in a resistor?"*).
 
